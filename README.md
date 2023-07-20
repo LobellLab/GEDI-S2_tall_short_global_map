@@ -1,0 +1,1 @@
+# GEDI-S2_tall_short_global_map
