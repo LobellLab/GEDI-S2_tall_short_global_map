@@ -25,7 +25,7 @@ To identify grid-cells with low quality prediction we have falgged them as follo
 - accuracy flag: based on test-Accuracy. Flagged if Accuracy < 0.85.
 - coverage flag: based on available months for classification. Flagged if classification is based on one month only - and that month is not the Optimal Month.
 
-GEE code to visualize the imageCollections and to flag the low quality data is provided in this [[Earth Engine script](https://code.earthengine.google.com/f3b5f3241e0dae0a7af639dd4dbb296f)]
+GEE code to visualize the imageCollections and to flag the low quality data is provided in this [[Earth Engine script](https://code.earthengine.google.com/af61eccd56dcebf15c838465717738eb)]
 
 
 ## Map creation
