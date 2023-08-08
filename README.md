@@ -5,7 +5,7 @@ These maps classify cropland as either a tall or short crop at global scale from
 
 An interecative map is available as [[Earth Engine App](https://stefania.users.earthengine.app/view/gedi-s2tallshortcropmap)]
 
-<p align="center"><img src="https://github.com/LobellLab/GEDI-S2_tall_short_global_map/blob/main/fig_validation.png"></p>
+<p align="center"><img src="https://github.com/LobellLab/GEDI-S2_tall_short_global_map/blob/main/fig.png"></p>
 
 
 
