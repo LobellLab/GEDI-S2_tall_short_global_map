@@ -1,6 +1,6 @@
 # Annual field-scale maps of tall and short crops at the global scale using GEDI and Sentinel-2
 
-This repo contains code that walks through key steps to create and validate the GEDI-S2 Tall/Short crop Global maps.
+This repo contains code that walks through key steps to create the GEDI-S2 Tall/Short crop Global maps.
 These maps classify cropland as either a tall or short crop at global scale from 2019 to 2021 at 10m resolution.
 
 An interecative map is available as [[Earth Engine App](https://stefania.users.earthengine.app/view/gedi-s2tallshortcropmap)]
