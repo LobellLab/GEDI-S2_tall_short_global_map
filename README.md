@@ -21,7 +21,7 @@ Each image in the collection has 2 bands:
 - classification: 0 = short, 1 = tall
 - GCVI_max: grenness index - expressed as maximum GCVI in the 3-month time window. (Scale factor = 10000)
 
-To identify grid-cells with low quality prediction we have falgged them as follow:
+To identify grid-cells with low quality prediction we have flagged them as follows:
 - accuracy flag: based on test-Accuracy. Flagged if Accuracy < 0.85.
 - coverage flag: based on available months for classification. Flagged if classification is based on one month only - and that month is not the Optimal Month.
 
